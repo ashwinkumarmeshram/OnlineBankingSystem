@@ -1,0 +1,40 @@
+# Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,java-web
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,java-web
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.metadata/
+private/
+bin/
+target/
+*.jar
+*.class
+Servers/
+node_modules/
+.vscode/
+
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
